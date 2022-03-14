@@ -52,7 +52,7 @@
 }
 
 .bg-flat-black {
-    background: #252525;
+    background: #141414;
 }
 
 .bg-blue {
@@ -99,4 +99,16 @@
 .shadow-hover:hover {
     border-color: transparent;
     box-shadow: 0 10px 10px 0 #00000033, 0 10px 40px 0 #00000030;
+}
+
+.bg-dark-blue {
+    background: #150050;
+}
+
+.bg-dark-purple {
+    background: #3F0071;
+}
+
+.bg-medium-purple {
+    background: #610094;
 }
